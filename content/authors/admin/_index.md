@@ -1,29 +1,14 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+first_name: Kagumba
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Community Based Organization
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: East Kano Location, Katolo Sub-Location
+role: Organization for the community, by the community
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +18,27 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
-status:
-  icon: ☕️
+  link: https://twitter.com/KagumbaCBO
 superuser: true
-title: Alice Wu 吳恩達
+title: Kagumba Community Based Organization
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Kagumba Community Based Organization, here under termed 'The CBO', is a group registered organization by the Ministry of Labour and Social Protection, State Department of Social Protection, Department of Social Development under certificate number **06927**. It brings together descendants of the late great Agumba Ochogo of Kano Katolo of Kisumu County in Kenya.  The CBO was formed on **5th December 2021** and officially registered on **22nd March 2022** in order to help boost the economy and livelihood of the members. It is largely led by youths **(age <= 35 years)** and women whose majority are widows. 
+
+# Objectives of The CBO
+
+i.	To improve livelihood of members and the community by establishing and running small and medium scale projects.
+
+ii.	To improve inclusion of youths, young girls, and women in both leadership and membership of The CBO for their individual and communal empowerment.
+
+iii.	To participate in environmental conservation strategies that ensure ecosystem protection and conservation of nature within the community. 
+
+iv.	To act as knowledge-sharing hub for members and the community at large on projects that can lift the community from abject poverty.
+
+**Vision**
+
+_To be a vibrant and self-reliant community based organization that lifts livelihood of members’ welfare and environmental concerns with dignity and integrity._
+
+**Mission**
+
+_A professional community based organization that generates skills and development-based projects and disseminates the same to Kenyan youths, young girls, and women as well as across the globe to ensure self-reliance and sustainability in livelihood improvement._

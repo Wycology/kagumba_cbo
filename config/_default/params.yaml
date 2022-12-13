@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: forest
   theme_night: minimal
   font: minimal
   font_size: L
@@ -27,12 +27,36 @@ marketing:
     google: ''
     baidu: ''
 
+# Contact
+
+email: kagumbacbo@gmail.com
+phone: +254 729371248
+address:
+    street: Yogo Primary School
+    city: Ahero
+    postcode: 40101
+    country: Kenya
+    country_code: KEN
+coordinates:
+    latitude: '-0.235396'
+    longitude: '35.011409'
+directions: From Katito or Awasi, go to Yogo Primary School and from there you will be directed to Kagumba
+office_hours: 
+ - 'Monday to Friday 08:00 to 17:00'
+ - 'Weekends and public holidays closed'
+appointment_email: kagumbacbo@gmail.com
+contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: https://twitter.com/KagumbaCBO
+
 # Site header
 
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
